@@ -31,7 +31,7 @@ public class HeartFullOfLove implements ModInitializer {
 	/** Сколько живёт entity: 600 тиков = 30 секунд */
 	public static final int LIFETIME_TICKS = 600;
 	/** Расстояние от игрока в блоках: 16 блоков = 1 чанк */
-	public static final int SPAWN_DISTANCE = 16;
+	public static final int SPAWN_DISTANCE = 32;
 	/** Сколько блоков воздуха должно быть над твёрдым блоком (минимум 2) */
 	public static final int REQUIRED_AIR_BLOCKS = 2;
 
